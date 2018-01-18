@@ -1,2 +1,5 @@
 # hello-world
-first repository using classic example
+
+Hello All!
+
+Franz here and I'm interested in learning web development for a future business venture! Here I come...
